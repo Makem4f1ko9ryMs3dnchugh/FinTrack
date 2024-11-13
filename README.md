@@ -4,3 +4,4 @@ SetupGuide
 FinancialFeatures
 DependenciesList
 CodeExamples
+ConfigurationSettings
