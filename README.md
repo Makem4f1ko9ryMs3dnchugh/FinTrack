@@ -5,3 +5,4 @@ FinancialFeatures
 DependenciesList
 CodeExamples
 ConfigurationSettings
+ContributionGuide
