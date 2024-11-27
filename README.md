@@ -11,3 +11,4 @@ LicenseDetails
 FinanceFAQ
 Changelog
 TestingInstructions
+FinancialPerformance
