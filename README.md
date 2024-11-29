@@ -12,3 +12,4 @@ FinanceFAQ
 Changelog
 TestingInstructions
 FinancialPerformance
+CommunityResources
